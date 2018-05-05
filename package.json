@@ -1,0 +1,14 @@
+{
+  "name": "aws-butlerbot",
+  "version": "1.0.0",
+  "description": "Handles pushing messages out to a Slack channel as ButlerBot",
+  "author": "Nathan Glover <nathan@glovers.id.au>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "slackbots": "^1.1.0"
+  }
+}
