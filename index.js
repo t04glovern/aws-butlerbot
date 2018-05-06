@@ -35,7 +35,7 @@ function processEvent(event, context, callback) {
         as_user: 'true',
         attachments: [{
             title: "Incoming Message!",
-            fallback: "Message Receieved",
+            fallback: "Message Received",
             text: payload,
             color: "#000000"
         }]
